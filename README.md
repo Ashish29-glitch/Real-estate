@@ -270,7 +270,7 @@ Before running this application, make sure you have the following installed:
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/full-stack-real-estate-marketplace.git
+   git clone [https://github.com/Ashish29-glitch/Real-estate.git]
    cd full-stack-real-estate-marketplace
    ```
 
@@ -586,3 +586,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Happy coding! 🏠✨**
 
 If you find this project helpful, please give it a ⭐ on GitHub!
+
